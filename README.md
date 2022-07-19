@@ -7,7 +7,7 @@ Skills: HTML / CSS / PYTHON /
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning java script  
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xec222&show_icons=true&locale=en&layout=compact" alt="xec222" /></p>
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xec222)  

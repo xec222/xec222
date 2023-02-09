@@ -1,5 +1,6 @@
 # 💫 About Me:
-✔ I'm currently learning intermeidate python<br>✔ I know basic python and I can program or discord bot but I think I need to learn intermediate python
+✔ Im currently learning C 
+✔ İ'll learn haskell LOL
 
 
 ## 🌐 Socials:

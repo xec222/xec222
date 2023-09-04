@@ -1,5 +1,5 @@
 <h1 align="center">I'm xec</h1>
-<h3 align="center">I'm High School Studen</h3>
+<h3 align="center">I'm STUDENT</h3>
 
 # I'd like to use Linux :D I like systemd btw
 <h3 align="left">Languages and Tools:</h3>
